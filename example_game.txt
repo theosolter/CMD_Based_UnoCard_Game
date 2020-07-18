@@ -1,0 +1,80 @@
+Hello!
+Let's play Uno!
+How many people would like to play Uno:
+3
+Please enter the names of the people playing:
+Ben
+Amy
+Sam
+Amy's Hand: (0)green 5 | (1)green 2 | (2)green 7 | (3)green 3 | (4)red skip | (5)red 7 | (6)wild draw four card |
+Ben's Hand: (0)blue 8 | (1)green reverse | (2)green 7 | (3)yellow 4 | (4)red 4 | (5)green 4 | (6)blue draw two |
+Sam's Hand: (0)blue 6 | (1)wild draw four card | (2)red 1 | (3)yellow reverse | (4)blue 1 | (5)yellow 1 | (6)green reverse |
+
+TOPCARD: blue skip
+
+It is Amy's turn
+Amy's Hand: (0)green 5 | (1)green 2 | (2)green 7 | (3)green 3 | (4)red skip | (5)red 7 | (6)wild draw four card |
+TOPCARD: blue skip
+Amy can play the following card(s): (4)red skip | (6)wild draw four card |
+Choose which card (number) Amy would like to play
+4
+
+Ben was skipped!
+It is Sam's turn
+Sam's Hand: (0)blue 6 | (1)wild draw four card | (2)red 1 | (3)yellow reverse | (4)blue 1 | (5)yellow 1 | (6)green reverse |
+TOPCARD: red skip
+Sam can play the following card(s): (1)wild draw four card | (2)red 1 |
+Choose which card (number) Sam would like to play
+2
+
+It is Amy's turn
+Amy's Hand: (0)green 5 | (1)green 2 | (2)green 7 | (3)green 3 | (4)red 7 | (5)wild draw four card |
+TOPCARD: red 1
+Amy can play the following card(s): (4)red 7 | (5)wild draw four card |
+Choose which card (number) Amy would like to play
+4
+
+It is Ben's turn
+Ben's Hand: (0)blue 8 | (1)green reverse | (2)green 7 | (3)yellow 4 | (4)red 4 | (5)green 4 | (6)blue draw two |
+TOPCARD: red 7
+Ben can play the following card(s): (2)green 7 | (4)red 4 |
+Choose which card (number) Ben would like to play
+2
+
+It is Sam's turn
+Sam's Hand: (0)blue 6 | (1)wild draw four card | (2)yellow reverse | (3)blue 1 | (4)yellow 1 | (5)green reverse |
+TOPCARD: green 7
+Sam can play the following card(s): (1)wild draw four card | (5)green reverse |
+Choose which card (number) Sam would like to play
+5
+
+Direction is switched!
+It is Ben's turn
+Ben's Hand: (0)blue 8 | (1)green reverse | (2)yellow 4 | (3)red 4 | (4)green 4 | (5)blue draw two |
+TOPCARD: green reverse
+Ben can play the following card(s): (1)green reverse | (4)green 4 |
+Choose which card (number) Ben would like to play 
+1
+
+.....
+.....
+.....  More rounds go here
+.....
+.....
+
+
+It is Amy's turn
+Amy's Hand: (0)wild draw four card |
+TOPCARD: green skip
+Amy can play the following card(s): (0)wild draw four card |
+Choose which card (number) Amy would like to play
+0
+
+Amy is the winner!!!!
+We went around the circle clockwise 4 times
+We went around the circle counter-clockwise 22 times
+Ben is the loser
+There is no one waiting in the queue.
+Do you want to play again?
+
+
